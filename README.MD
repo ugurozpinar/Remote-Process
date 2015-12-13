@@ -10,3 +10,5 @@ And you need to have [Administration App](https://github.com/ugurozpinar/Remote-
 * Reboot all computer
 * Send message
 * TO DO (run shell command)
+
+![alt tag](https://raw.githubusercontent.com/ugurozpinar/Remote-Process/master/ss/ss1.png)
