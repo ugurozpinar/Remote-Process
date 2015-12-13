@@ -9,7 +9,7 @@ And you need to have [Administration App](https://github.com/ugurozpinar/Remote-
 * Shutdown all computer in the network
 * Reboot all computer
 * Send message
-* Keep closed an exe/programme during 3 minutes(default)
+* Keep an exe/programme closed during 3 minutes(default)
 * TO DO (run shell command)
 
 ![alt tag](https://raw.githubusercontent.com/ugurozpinar/Remote-Process/master/ss/ss1.png)
