@@ -14,3 +14,11 @@ D:\Projects\BilDestek v2\BilDestekv2\BilDestek\obj\Debug\BilDestek.csprojResolve
 D:\Projects\BilDestek v2\BilDestekv2\BilDestek\obj\Debug\BilDestek.Form1.resources
 D:\Projects\BilDestek v2\BilDestekv2\BilDestek\obj\Debug\BilDestek.Properties.Resources.resources
 D:\Projects\BilDestek v2\BilDestekv2\BilDestek\obj\Debug\BilDestek.csproj.GenerateResource.Cache
+D:\Projects\Remote Process\BilDestek\bin\Debug\BilDestek.exe
+D:\Projects\Remote Process\BilDestek\bin\Debug\BilDestek.pdb
+D:\Projects\Remote Process\BilDestek\obj\Debug\BilDestek.csprojResolveAssemblyReference.cache
+D:\Projects\Remote Process\BilDestek\obj\Debug\BilDestek.Form1.resources
+D:\Projects\Remote Process\BilDestek\obj\Debug\BilDestek.Properties.Resources.resources
+D:\Projects\Remote Process\BilDestek\obj\Debug\BilDestek.csproj.GenerateResource.Cache
+D:\Projects\Remote Process\BilDestek\obj\Debug\BilDestek.exe
+D:\Projects\Remote Process\BilDestek\obj\Debug\BilDestek.pdb

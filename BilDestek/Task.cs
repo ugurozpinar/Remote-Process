@@ -48,7 +48,8 @@ namespace BilDestek
                 Timer t2 = new Timer(500);
                 t2.Elapsed += t2_Elapsed;
                 t2.Start();
-                keepDoing();
+                if(this.keep && this.param1 == "endProcess")
+                    keepDoing();
             }
         }
 
