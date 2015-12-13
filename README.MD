@@ -6,8 +6,8 @@ And you need to have [Administration App](https://github.com/ugurozpinar/Remote-
 
 ### What can you do with this app?
 * Kill, exit a process, it may be an exe that your users run from network folder that you need to update
-* Shutdown all computer in the network
-* Reboot all computer
+* Shutdown all computers in the network
+* Reboot all computers
 * Send message
 * Keep an exe/programme closed during 3 minutes(default)
 * TO DO (run shell command)
